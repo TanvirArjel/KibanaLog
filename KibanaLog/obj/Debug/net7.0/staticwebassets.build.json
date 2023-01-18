@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TlbgnSL6eqBekGdcPVMjp7fw0l5IuI5IiLOBBkbsZgw=",
+  "Source": "KibanaLog",
+  "BasePath": "_content/KibanaLog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
